@@ -2,7 +2,7 @@
 This is a mirror repo for project [AdVize](https://github.com/ece1786-2024/AdVize)
 
 ## What is AdVize
-AdVize is a tool for online advertising and business services to evaluate their ad-pushing algorithms more efficiently. We have implemented a "Simulated Ad Rater" based on ChatGPT-4o with techniques such as persona embedding to 
+AdVize is an LLM-based Agentic tool for online advertising and business services to evaluate their ad-pushing algorithms more efficiently. We have implemented a "Simulated Ad Rater" based on ChatGPT-4o with techniques such as persona embedding to replace the traditional real-user-involved costly A/B round test for ad pushing algorithms.
 
 <img src="./assets/AdVize_usage.png" alt="AdVize Usage" width="400"/>
 
